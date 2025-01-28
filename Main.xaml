@@ -107,7 +107,7 @@
         <OutArgument x:TypeArguments="x:String">[var]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:String">helo</InArgument>
+        <InArgument x:TypeArguments="x:String">New York</InArgument>
       </Assign.Value>
     </Assign>
   </Sequence>
